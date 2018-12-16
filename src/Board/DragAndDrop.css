@@ -1,0 +1,9 @@
+
+.can__drop__style,
+.can__drop__style > div {
+    background: #000 !important;
+}
+.drag__is__over,
+.drag__is__over > div {
+    background: blue !important;
+}
